@@ -1,0 +1,11 @@
+{
+    "name": "penguin/console_app",
+    "autoload": {
+        "psr-4": {
+            "Penguin\\ConsoleApp\\": "src/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^1.0"
+    }
+}
