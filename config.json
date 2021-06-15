@@ -1,4 +1,4 @@
 {
   "folder": "src",
-  "ext": "js,php,html"
+  "ext": ["js", "php", "html"]
 }
